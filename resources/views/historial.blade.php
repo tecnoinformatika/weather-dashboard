@@ -34,7 +34,7 @@
 
                     <!-- Logo container-->
                     <div class="logo">
-                        <a href="{{ url('/home') }}" class="logo">
+                        <a href="{{ url('/') }}" class="logo">
                             <i class="mdi mdi-bowling text-success mr-1"></i> <span class="hide-phone">Weather</span>
                         </a>
 
